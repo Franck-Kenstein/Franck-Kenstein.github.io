@@ -1,1 +1,18 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"io.github.franck_kenstein.twa","sha256_cert_fingerprints":["EA:FB:2F:24:84:29:06:23:B9:AA:0D:17:A4:AB:22:9F:00:13:8E:ED:DC:AE:64:2C:5C:A1:06:2C:D6:39:0D:48"]}}]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.franck_kenstein.twa",
+      "sha256_cert_fingerprints": ["EA:FB:2F:24:84:29:06:23:B9:AA:0D:17:A4:AB:22:9F:00:13:8E:ED:DC:AE:64:2C:5C:A1:06:2C:D6:39:0D:48"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.franck_kenstein.cristalquest",
+      "sha256_cert_fingerprints": ["PEGA:AQUI:EL:SHA256:DE:CRISTAL:QUEST"]
+    }
+  }
+]
