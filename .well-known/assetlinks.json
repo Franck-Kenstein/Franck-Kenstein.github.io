@@ -11,8 +11,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "io.github.franck_kenstein.cristalquest",
-      "sha256_cert_fingerprints": ["PEGA:AQUI:EL:SHA256:DE:CRISTAL:QUEST"]
+      "package_name": "com.franck.cristalquest",
+      "sha256_cert_fingerprints": ["E0:B3:A8:1F:56:ED:24:EB:CD:93:03:CB:83:00:F7:B1:1C:D5:A9:2C:D3:00:3B:79:3D:39:84:3B:B2:F3:3A:F9"]
     }
   }
 ]
